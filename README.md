@@ -1,2 +1,0 @@
-# douban
-a vue project
